@@ -25,5 +25,5 @@ Antud SDK on minimaalne testitud SDK versioon.
 
 # 4. Muutmised
 
-- Iiri sõnastik oli asendatud eesti keelse sõnastikuga.
-- ImageButton`i asemel kasutatakse buttoni.
+- DateTime (Timestamp) oli asendatud DateTime (Date) vastu
+- Kujunduse värvid said vahetatud
